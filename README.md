@@ -1,0 +1,2 @@
+# Web_testing_Yandex_taxi
+Charles_Mindmap_Drawio_Test_Design_Technics
